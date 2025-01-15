@@ -7,4 +7,4 @@ Voice & Text Input: Supports spoken and written responses.
 Confidence Detection: Real-time analysis of user confidence via facial recognition.  
 Performance Tracking: Monitors progress with detailed feedback and reports.  
 
-Ideal for job seekers, students, and recruiters to enhance interview skills and streamline candidate evaluation.
+Ideal for job seekers, and recruiters to enhance interview skills and streamline candidate evaluation.
